@@ -1,2 +1,2 @@
 # Git
-Point of Sales Project
+#Point of Sales Project
